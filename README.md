@@ -7,7 +7,6 @@ Visit the website at https://tenzies-game-siddhesh.netlify.app
 
 To play the Tenzies Game locally, follow these steps:
 
-1. Clone the repository: `git clone https://github.com/yourusername/tenzies-game.git`
-2. Navigate to the project directory: `cd tenzies-game`
-3. Install dependencies: `npm install`
-4. Start the game: `npm start`
+1. Clone the repository: `git clone https://github.com/SiddheshSonar/Tenzies-Game.git`
+2. Install dependencies: `npm install`
+3. Start the game: `npm start`
